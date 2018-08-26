@@ -19,7 +19,7 @@ describe('Introduction to Mocha Tests - READ ME FIRST', function() {
 
   it('Throws an error so it fails', function() {
     //throw new Error('Delete me!');
-    //testing for push
+    //don't do this 
   });
 
   it('Doesn\'t throw an error, so it doesn\'t fail', function() {
